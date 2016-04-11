@@ -4,12 +4,12 @@
 
 ###环境依赖
 
-node v0.10.00+   
+node
 //安装node运行环境   
 安装看这里: https://nodejs.org/
 
 ###部署步骤
-1. 添加数据目录（cvs文件）  
+1. 添加数据目录（csv文件）  
 ``` 
 /my-app/data
 ```
@@ -17,7 +17,7 @@ node v0.10.00+
 ```
 # cd ./(当前目录)  
 # start the server and watch (localhost:8080)    
-node server
+node server.js
 ```
 3. 在浏览器地址栏输入localhost:8080 
 
