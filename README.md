@@ -39,7 +39,7 @@ node server.js
 1. jQuery（不多说）
 2. [C3.js](http://c3js.org)
 c3是一个基于D3-based可重用的图表库,使图表的更深层次的整合到web应用程序中。  
-更多信息:https://d3js.org/、http://c3js.org。
+更多信息:[D3.js](https://d3js.org/)、[C3.js](http://c3js.org)。
 
 
 
